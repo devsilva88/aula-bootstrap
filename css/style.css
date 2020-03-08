@@ -1,0 +1,35 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #688A08;
+}
+
+.quem-somos {
+    background-color: #8181F7;
+    color: white;
+    font-style: italic;
+    font-family: Apple Chancery, cursive;
+}
+
+.parceiros {
+    background-color: #01DFD7;
+}
+
+.servicos {
+    background-color: #F5A9F2;
+    font-style: oblique;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
